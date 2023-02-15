@@ -1,0 +1,10 @@
+name: PortfolioPlugin
+version: 1.0
+author: Nick Doxa
+main: net.oasisgames.portfolio
+description: PortfolioPlugin created by Nick Doxa https://oasisgames.net
+depends: [LuckPerms, ModelEngine, PlaceholderAPI]
+api-version: 1.19
+commands:
+  example:
+    description: Main command for portfolio example usages!
